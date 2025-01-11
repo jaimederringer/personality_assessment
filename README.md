@@ -58,10 +58,10 @@ These larger Course Project assignments are due by Monday 5 pm the next week. La
 - Additional resource: [How to Read a Scholarly Article](https://libguides.brown.edu/evaluate/Read).
 - Overview of Personality
 - Why Study Personality Assessment?
-- Kenrick & Funder (1988). Profiting from controversy: Lessons from the person-situation debate. American Psychologist. (https://doi.org/10.1037/0003-066X.43.1.23)
-- Soto (2019). How Replicable Are Links Between Personality Traits and Consequential Life Outcomes? The Life Outcomes of Personality Replication Project. Psychological Science. (https://doi.org/10.1177/0956797619831612)
-- Roberts & Yoon (2022). Personality psychology. Annual Review of Psychology. (https://doi.org/10.1146/annurev-psych-020821-114927)
-- Mayer & Bryan (2024) On personality measures and their data: A classification of measurement approaches and their recommended uses. Personality and Social Psychology Review. (https://doi.org/10.1177/10888683231222519)
+- Kenrick & Funder (1988). Profiting from controversy: Lessons from the person-situation debate. American Psychologist. [https://doi.org/10.1037/0003-066X.43.1.23](https://doi.org/10.1037/0003-066X.43.1.23)
+- Soto (2019). How Replicable Are Links Between Personality Traits and Consequential Life Outcomes? The Life Outcomes of Personality Replication Project. Psychological Science. [https://doi.org/10.1177/0956797619831612](https://doi.org/10.1177/0956797619831612)
+- Roberts & Yoon (2022). Personality psychology. Annual Review of Psychology. [https://doi.org/10.1146/annurev-psych-020821-114927](https://doi.org/10.1146/annurev-psych-020821-114927)
+- Mayer & Bryan (2024) On personality measures and their data: A classification of measurement approaches and their recommended uses. Personality and Social Psychology Review. [https://doi.org/10.1177/10888683231222519](https://doi.org/10.1177/10888683231222519)
 - Pick a test for your Course Project 
 	- Choose a test that is relevant to your professional/research interests. 
 	- It is going to be easier to work with a test that (1) has been researched and published-on fairly extensively and (2) is open-access or you have access to all of the materials for (not something proprietary that you don't otherwise have access to). 
