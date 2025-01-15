@@ -51,6 +51,22 @@ Throughout the semester, you will develop a **Course Project** of a research pro
 
 These larger Course Project assignments are due by Monday 5 pm the next week. Late Course Project assignments lose 10% of their grade per day late.
 
+## Integrity and “AI” Policy
+
+[UIUC Student Code Academic Integrity Policy](https://studentcode.illinois.edu/article1/part4/1-402)
+
+Make good choices. You are ultimately responsible for the content of what you submit. The landscape of computer assistance for research and knowledge production is ever-changing. A good guideline is that if you would be uncomfortable describing your process for producing work for this course (to me, to your research supervisor, or announced on a roadside billboard), you should re-evaluate your approach. If you are in doubt, reach out to discuss options and approaches. I am a reasonable, practical person, and I can tell you from experience that the examples of (obviously) “AI” generated work that I have encountered have been terrible enough that they end up earning failing scores on their merits alone. If you would like to quickly see for yourself, try talking to any LLM about a topic you are already very knowledgeable about… it’ll say wrong things that sound good, except you know better.
+
+## Accessing Course Readings
+
+The closest thing this course uses to a textbook is [The APA/AERA/NCME Standards for Educational and Psychological Testing (2014)](https://www.testingstandards.net/open-access-files.html), which is available open access/for free.
+
+For journal articles, PDFs will be posted on the course Canvas page. 
+
+If you are accessing readings from outside of the course, I've tried to mark articles that are freely available as (open access). For those that aren't, many are old/popular enough that there are freely available PDFs floating around on the internet if you search for the article. If you have access to a University library system, most of these journals will likely be available online through your library. 
+
+When you pay to access a journal article, that money goes to the publisher, not to the authors or their institutions. Especially newer articles you can usually get by emailing the author (first, last, or corresponding) - we love to hear that someone wants to read our work! Services like Sci-Hub ([https://en.wikipedia.org/wiki/Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)) bypass journal paywalls to provide free access. 
+
 ## Schedule
 
 ### Week 1 - January 20
@@ -60,14 +76,9 @@ These larger Course Project assignments are due by Monday 5 pm the next week. La
 - Why Study Personality Assessment?
 - Kenrick & Funder (1988). Profiting from controversy: Lessons from the person-situation debate. American Psychologist. [https://doi.org/10.1037/0003-066X.43.1.23](https://doi.org/10.1037/0003-066X.43.1.23)
 - Soto (2019). How Replicable Are Links Between Personality Traits and Consequential Life Outcomes? The Life Outcomes of Personality Replication Project. Psychological Science. [https://doi.org/10.1177/0956797619831612](https://doi.org/10.1177/0956797619831612)
-- Roberts & Yoon (2022). Personality psychology. Annual Review of Psychology. [https://doi.org/10.1146/annurev-psych-020821-114927](https://doi.org/10.1146/annurev-psych-020821-114927)
-- Mayer & Bryan (2024) On personality measures and their data: A classification of measurement approaches and their recommended uses. Personality and Social Psychology Review. [https://doi.org/10.1177/10888683231222519](https://doi.org/10.1177/10888683231222519)
+- Roberts & Yoon (2022). Personality psychology. Annual Review of Psychology. [https://doi.org/10.1146/annurev-psych-020821-114927](https://doi.org/10.1146/annurev-psych-020821-114927) (open access)
+- Mayer & Bryan (2024) On personality measures and their data: A classification of measurement approaches and their recommended uses. Personality and Social Psychology Review. [https://doi.org/10.1177/10888683231222519](https://doi.org/10.1177/10888683231222519) (open access)
 - Pick a test for your Course Project 
-	- Choose a test that is relevant to your professional/research interests. 
-	- It is going to be easier to work with a test that (1) has been researched and published-on fairly extensively and (2) is open-access or you have access to all of the materials for (not something proprietary that you don't otherwise have access to). 
-	- "Personality test" is defined very broadly for the purposes of this project; anything that  evaluates relatively consistent patterns of thoughts, feelings, or behaviors could work. Measures of experiences (like stressful life events) would not be appropriate. Measures of ability may be appropriate, but make sure you have access to test materials. 
-	- A non-exhaustive list of measures that would work (I know there's enough research and you can access materials): Big Five Inventory 2 (BFI-2), Personality Inventory for DSM-5 (PID-5), RIASEC interest inventories, Experiences in Close Relationships (ECR), depression/affect measures (like the PANAS, BDI, or CES-D), Child Behavior Checklist (CBCL), Dweck's GRIT scale, Dark Triad/Tetrad or various Narcissism inventories
-	- If you have an idea but aren't sure, or want help coming up with ideas, ask.
 
 ### Week 2 - January 27
 - Validity (Standards chapter 1, pp. 11-31)
@@ -75,7 +86,7 @@ These larger Course Project assignments are due by Monday 5 pm the next week. La
 - Campbell & Fiske (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. Psychological Bulletin. [https://doi.org/10.1037/h0046016](https://doi.org/10.1037/h0046016)
 - Messick (1995). Validity of psychological assessment: Validation of inferences from persons’ responses and performances as scientific inquiry into score meaning. American Psychologist. [https://doi.org/10.1037/0003-066X.50.9.741](https://doi.org/10.1037/0003-066X.50.9.741)
 - Roberts et al. (2007). The power of personality: The comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes. Perspectives on Psychological Science. [https://doi.org/10.1111/j.1745-6916.2007.00047.x](https://doi.org/10.1111/j.1745-6916.2007.00047.x)
-- Flake, Pek, & Hehman (2017). Construct validation in social and personality research: Current practice and recommendations. Social Psychological and Personality Science. [https://doi.org/10.1177/1948550617693](https://doi.org/10.1177/1948550617693)
+- Flake, Pek, & Hehman (2017). Construct validation in social and personality research: Current practice and recommendations. Social Psychological and Personality Science. [https://doi.org/10.1177/1948550617693063](https://doi.org/10.1177/1948550617693063)
 - Write a brief (1-2 pages) discussion of the three clusters of Validity standards (pp. 23-31) applied to your Course Project test
 
 ### Week 3 - February 3
@@ -92,7 +103,7 @@ These larger Course Project assignments are due by Monday 5 pm the next week. La
 - Paradigms of Personality Assessment: Personological
 - de Raad et al. (2010) Only three factors of personality description are fully replicable
 across languages: A comparison of 14 trait taxonomies. Journal of Personality and Social Psychology. [https://doi.org/10.1037/a0017184](https://doi.org/10.1037/a0017184)
-- Laajaj et al. (2019) Challenges to capture the big five personality traits in non-WEIRD populations. Science Advances. [https://www.science.org/doi/10.1126/sciadv.aaw5226](https://www.science.org/doi/10.1126/sciadv.aaw5226)
+- Laajaj et al. (2019) Challenges to capture the big five personality traits in non-WEIRD populations. Science Advances. [https://www.science.org/doi/10.1126/sciadv.aaw5226](https://www.science.org/doi/10.1126/sciadv.aaw5226) (open access)
 - McAdams (1995). What do we know when we know a person? Journal of Personality. [https://doi.org/10.1111/j.1467-6494.1995.tb00500.x](https://doi.org/10.1111/j.1467-6494.1995.tb00500.x)
 - Adler et al. (2017). Research methods for studying narrative identity: A primer. Social Psychological and Personality Science. [https://doi.org/10.1177/1948550617698202](https://doi.org/10.1177/1948550617698202)
 - Write a brief (1-2 pages) discussion of the four clusters of Fairness standards (pp. 63-72) applied to your Course Project test
@@ -103,7 +114,7 @@ across languages: A comparison of 14 trait taxonomies. Journal of Personality an
 - Classical Test Construction
 - Hase & Goldberg (1967) Comparative validity of different strategies of constructing personality inventory scales. Psychological Bulletin. [https://doi.org/10.1037/h0024421](https://doi.org/10.1037/h0024421)
 - Goldberg et al. (2006). The international personality item pool and the future of public-domain personality measures. Journal of Research in Personality. [https://doi.org/10.1016/j.jrp.2005.08.007](https://doi.org/10.1016/j.jrp.2005.08.007)
-- Clark & Watson (2019). Constructing validity: New developments in creating objective measuring instruments. Psychological Assessment. [https://doi.org/10.1037/pas0000626](https://doi.org/10.1037/pas0000626)
+- Clark & Watson (2019). Constructing validity: New developments in creating objective measuring instruments. Psychological Assessment. [https://doi.org/10.1037/pas0000626](https://doi.org/10.1037/pas0000626) (open access)
 - Sellbom, Kremyar, & Wygant (2021). Mapping MMPI-3 scales onto the hierarchical taxonomy of psychopathology. Psychological Assessment. [https://doi.org/10.1037/pas0001049](https://doi.org/10.1037/pas0001049)
 - Write a brief (1-2 pages) discussion of the four clusters of Test Design and Development standards (pp. 85-93) applied to your Course Project test
 
@@ -155,7 +166,7 @@ across languages: A comparison of 14 trait taxonomies. Journal of Personality an
 - Vukasović & Bratko (2015). Heritability of personality: A meta-analysis of behavior genetic studies. Psychological Bulletin. [https://doi.org/10.1037/bul0000017](https://doi.org/10.1037/bul0000017)
 - Briley, Livengood, & Derringer (2018). Behaviour genetic frameworks of causal reasoning for personality psychology. European Journal of Personality. [https://doi.org/10.1002/per.2153](https://doi.org/10.1002/per.2153)
 - Briley, Livengood, Derringer, et al. (2019). Interpreting behavior genetic models: Seven developmental processes to understand. Behavior Genetics. [https://doi.org/10.1007/s10519-018-9939-6](https://doi.org/10.1007/s10519-018-9939-6)
-- Gupta et al. (2024). A genome-wide investigation into the underlying genetic architecture of personality traits and overlap with psychopathology. Nature Human Behaviour. [https://doi.org/10.1038/s41562-024-01951-3](https://doi.org/10.1038/s41562-024-01951-3)
+- Gupta et al. (2024). A genome-wide investigation into the underlying genetic architecture of personality traits and overlap with psychopathology. Nature Human Behaviour. [https://doi.org/10.1038/s41562-024-01951-3](https://doi.org/10.1038/s41562-024-01951-3) (open access)
 - Write a brief (1-2 pages) discussion of the four clusters of standards for Test Users' Rights and Responsibilities (pp. 142-148) applied to your Course Project test
 
 ### Week 11 - April 7
@@ -183,7 +194,7 @@ across languages: A comparison of 14 trait taxonomies. Journal of Personality an
 - Retrospective Reports
 - Henry et al. (1994). On the "remembrance of things past": A longitudinal evaluation of the retrospective method. Psychological Assessment. [https://doi.org/10.1037/1040-3590.6.2.92](https://doi.org/10.1037/1040-3590.6.2.92)
 - Hardt & Rutter (2004). Validity of adult retrospective reports of adverse childhood experiences: Review of the evidence. Journal of Child Psychology and Psychiatry. [https://doi.org/10.1111/j.1469-7610.2004.00218.x](https://doi.org/10.1111/j.1469-7610.2004.00218.x)
-- Oltmanns, Jackson, & Oltmanns (2020). Personality change: Longitudinal self-other agreement and convergence with retrospective-reports. Journal of Personality and Social Psychology. [https://doi.org/10.1037/pspp0000238](https://doi.org/10.1037/pspp0000238)
+- Oltmanns, Jackson, & Oltmanns (2020). Personality change: Longitudinal self-other agreement and convergence with retrospective-reports. Journal of Personality and Social Psychology. [https://doi.org/10.1037/pspp0000238](https://doi.org/10.1037/pspp0000238) (open access)
 - Pryiomka (2018). Quantitative dogmatism in character assessment and its implications for education: A case study of grit. Social and Personality Psychology Compass. [https://doi.org/10.1111/spc3.12388](https://doi.org/10.1111/spc3.12388)
 - Write a brief (1-2 pages) discussion of the three clusters of standards for Educational Testing and Assessment (pp. 195-201) applied to your Course Project test
 
