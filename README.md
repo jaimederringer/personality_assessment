@@ -43,7 +43,7 @@ Outside of class, the most common activity will be annotating/virtually discussi
 
 The next most common activity will be evaluating your chosen test (see the Course Project description below) in terms of the recommendations (identified as Clusters) made by the Standards in each chapter of the text. This consistent reflection on a test  (ideally, having selected one relevant to your research/professional goals) is intended to contribute to the materials you have to work with when assembling your Course Project.
 
-Throughout the semester, you will develop a **Course Project** of a research proposal or a review paper (about 12-15 double-spaced pages) about a specific test. From the beginning of the course, you will identify a test to evaluate against the guidelines presented in the Standards text. In addition to these weekly evaluation activities, the course project includes three major assignments up to and including the final paper:
+Throughout the semester, you will develop a **Course Project** of a research proposal or a review paper (about 12-18 double-spaced pages) about a specific test. From the beginning of the course, you will identify a test to evaluate against the guidelines presented in the Standards text. In addition to these weekly evaluation activities, the course project includes three major assignments up to and including the final paper:
 
 - Week 9: Draft paper or proposal (10 points)
 - Week 12: Peer review of 2 others' drafts (10 points)
